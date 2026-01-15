@@ -1,0 +1,29 @@
+{
+  "typography": {
+    "lineHeight": "1.6",
+    "bodySize": "base",
+    "fontWeight": "400",
+    "headingSize": "xl",
+    "fontFamily": "Inter",
+    "fontSize": "16px"
+  },
+  "layout": {
+    "borderRadius": "8px",
+    "containerWidth": "1200px",
+    "spacing": "comfortable",
+    "sectionSpacing": "32px"
+  },
+  "components": {
+    "button": {
+      "style": "solid",
+      "size": "medium"
+    }
+  },
+  "colors": {
+    "accent": "#FFA500",
+    "background": "#FFFFFF",
+    "secondary": "#8B4513",
+    "primary": "#D2691E",
+    "text": "#2D3748"
+  }
+}
